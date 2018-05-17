@@ -1,4 +1,4 @@
-## Swift 30 Projects
+## 何昕健的博客
 
 ![Cover](./Cover.jpg)
 
@@ -39,6 +39,6 @@ Also, **unit tests** will be added to ensure the quality of the codebase.
 
 ## Reach me ##
 
-Twitter: [@guyindaozhang](https://twitter.com/guyindaozhang)<br />
-Weibo: [@故胤道长](http://weibo.com/soapyigu)
+Twitter: [@幸运虎儿](https://twitter.com/luckytiger)<br />
+Weibo: [@幸运虎儿](http://weibo.com/luckytiger)
 
